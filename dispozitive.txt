@@ -1,0 +1,5 @@
+1 Android 1200.5 EcranSpart 10
+2 iOS 2000.0 BaterieDefecta 5
+3 Android 950.75 Camera 8
+4 Windows 800.0 NuPorneste 12
+5 Android 1500.0 SoftwareBug 3
