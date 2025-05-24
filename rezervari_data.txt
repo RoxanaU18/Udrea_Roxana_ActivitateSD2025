@@ -1,0 +1,6 @@
+5
+1234 Roma Bucuresti 2024-07-20 2
+4567 Paris Cluj 2024-08-10 5
+7890 Madrid Iasi 2024-09-05 3
+1111 Londra Timisoara 2024-10-01 4
+2222 Berlin Sibiu 2024-11-18 1
